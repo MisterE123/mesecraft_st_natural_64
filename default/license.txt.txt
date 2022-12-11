@@ -1,9 +1,13 @@
 Author: MisterE, deriviative of Author Zughy's Soothing32 texture pack textures.
 https://content.minetest.net/packages/Zughy/soothing32/
 
+
+default_mese_crystal authored by komodo
 gui_hotbar.png is authored by Zughy without changes made.
 default_torch, default_torch_animated, gui_hotbar_selected are Authored by Zughy with few changes made.
 Other textures are more or less derivatives of the textures in Soothing 32.
+
+
 
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 
 
